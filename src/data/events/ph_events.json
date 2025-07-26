@@ -1,0 +1,29 @@
+[
+  {
+    "id": "PH_SukaranFestival",
+    "tag": "SukaranFestival",
+    "location": "Kidapawan",
+    "yearRange": [10, 99],
+    "text": "You joined the Sukaran Festival parade! The colors were dazzling.",
+    "impact": { "happiness": +8, "community": +5 },
+    "illustration": "sukaran_festival.png"
+  },
+  {
+    "id": "PH_JeepneyStrike",
+    "tag": "JeepneyStrike",
+    "location": "Manila",
+    "yearRange": [16, 60],
+    "text": "A massive jeepney strike delayed your school commute. You walked 3km!",
+    "impact": { "happiness": -3, "resilience": +4 },
+    "illustration": "jeepney_strike.png"
+  },
+  {
+    "id": "PH_QuakeDrill",
+    "tag": "QuakeDrill",
+    "location": "Kidapawan",
+    "yearRange": [8, 18],
+    "text": "Your school held an earthquake drill. You practiced hiding under desks.",
+    "impact": { "safetyKnowledge": +6 },
+    "illustration": "quake_drill.png"
+  }
+]
