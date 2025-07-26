@@ -1,4 +1,5 @@
 import phCities from "./phCitiesData.json";
+import usCities from "./usCitiesData.js";
 
 export const countryData = [
   {
@@ -18,10 +19,7 @@ export const countryData = [
     region: "North America",
     language: "English",
     traits: ["Individualistic", "Fast-paced"],
-    cities: [
-      { name: "New York", population: 8500000, traits: ["Cosmopolitan", "Ambitious"], eventTags: ["BroadwayAudition", "Snowstorm"] },
-      { name: "Austin", population: 1000000, traits: ["Startup scene", "Hot summers"], eventTags: ["TechConference", "BBQFestival"] }
-    ],
+    cities: usCities,
     eventPack: "us_events.json"
   }
 ];
