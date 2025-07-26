@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Manila",
+    "population": 1780148,
+    "traits": ["Urban", "Historic Intramuros"],
+    "eventTags": ["JeepneyStrike", "FloodPrep"]
+  },
+  {
+    "name": "Quezon City",
+    "population": 2960000,
+    "traits": ["Political center", "Diverse"],
+    "eventTags": ["TrafficJam", "LocalElection"]
+  },
+  {
+    "name": "Caloocan",
+    "population": 1650000,
+    "traits": ["Residential sprawl", "Bustling markets"],
+    "eventTags": ["BarangayFeast", "LRTDelay"]
+  },
+  {
+    "name": "Davao City",
+    "population": 1632991,
+    "traits": ["Clean", "Peaceful"],
+    "eventTags": ["KadayawanFestival", "EcoDrive"]
+  },
+  {
+    "name": "Cebu City",
+    "population": 964000,
+    "traits": ["Historic", "Sea breeze"],
+    "eventTags": ["SinulogFestival", "PortJam"]
+  },
+  {
+    "name": "Zamboanga City",
+    "population": 861799,
+    "traits": ["Chavacano charm", "Port town"],
+    "eventTags": ["HermosaFestival", "TradeRoute"]
+  },
+  {
+    "name": "Antipolo",
+    "population": 887399,
+    "traits": ["Pilgrimage site", "Hilly"],
+    "eventTags": ["MayTimeParade", "ArtWalk"]
+  },
+  {
+    "name": "Pasig",
+    "population": 755300,
+    "traits": ["Metro business hub", "Riverbanks"],
+    "eventTags": ["OrtigasFair", "FloodAlert"]
+  },
+  {
+    "name": "Cagayan de Oro",
+    "population": 728000,
+    "traits": ["White water", "Business hub"],
+    "eventTags": ["RiverRafting", "StartupSummit"]
+  },
+  {
+    "name": "Parañaque",
+    "population": 689992,
+    "traits": ["Airport gateway", "Coastal"],
+    "eventTags": ["OyayiFestival", "LandslideDrill"]
+  },
+  {
+    "name": "General Santos",
+    "population": 679588,
+    "traits": ["Fishing hub", "Boxing pride"],
+    "eventTags": ["TunaFestival", "MannyEvent"]
+  },
+  {
+    "name": "Dasmariñas",
+    "population": 703000,
+    "traits": ["University town", "Industrial estates"],
+    "eventTags": ["CollegeFair", "SmokeDrill"]
+  },
+  {
+    "name": "Calamba",
+    "population": 539000,
+    "traits": ["Hot spring resort", "Jose Rizal birthplace"],
+    "eventTags": ["SpringSoak", "HistoricalTour"]
+  },
+  {
+    "name": "Imus",
+    "population": 496000,
+    "traits": ["Revolutionary history", "Residential"],
+    "eventTags": ["BattleReenact", "BarangayFiesta"]
+  },
+  {
+    "name": "Taguig",
+    "population": 886722,
+    "traits": ["Bonifacio Global City", "Urban chic"],
+    "eventTags": ["ArtBiennale", "TrafficCongestion"]
+  },
+  {
+    "name": "Iloilo City",
+    "population": 457626,
+    "traits": ["Festive", "Rice-rich"],
+    "eventTags": ["DinagyangFestival", "CropSurplus"]
+  },
+  {
+    "name": "Makati",
+    "population": 582602,
+    "traits": ["Financial district", "Skyscrapers"],
+    "eventTags": ["StockSummit", "NightMarket"]
+  },
+  {
+    "name": "Las Piñas",
+    "population": 606293,
+    "traits": ["Parañaque–Las Piñas Tunnel", "Bay views"],
+    "eventTags": ["SlideFestival", "FloodPrep"]
+  },
+  {
+    "name": "Baguio",
+    "population": 366000,
+    "traits": ["Cool climate", "Art scene"],
+    "eventTags": ["PanagbengaParade", "FogAlert"]
+  },
+  {
+    "name": "San Juan",
+    "population": 124180,
+    "traits": ["Heritage houses", "Shopping district"],
+    "eventTags": ["AntingAntingFair", "FloodGuard"]
+  },
+  {
+    "name": "Muntinlupa",
+    "population": 504509,
+    "traits": ["Residential hills", "Alabang Valley"],
+    "eventTags": ["MusicFestival", "LandslideDrill"]
+  },
+  {
+    "name": "San Pablo",
+    "population": 288000,
+    "traits": ["Seven lakes", "Quiet retreat"],
+    "eventTags": ["LakeRegatta", "EvacDrill"]
+  },
+  {
+    "name": "Tarlac City",
+    "population": 342493,
+    "traits": ["Agricultural", "Highways"],
+    "eventTags": ["HarvestFair", "TrafficJam"]
+  },
+  {
+    "name": "Lucena City",
+    "population": 266248,
+    "traits": ["Coconut lands", "Port city"],
+    "eventTags": ["CocoFest", "BoatLaunch"]
+  },
+  {
+    "name": "Batangas City",
+    "population": 351437,
+    "traits": ["Beachside", "Coffee town"],
+    "eventTags": ["BarakoFestival", "VolcanoDrill"]
+  },
+  {
+    "name": "Olongapo",
+    "population": 260317,
+    "traits": ["Subic Bay", "Shipbuilding"],
+    "eventTags": ["BayRegatta", "NavalExpo"]
+  },
+  {
+    "name": "Malabon",
+    "population": 365525,
+    "traits": ["Fishpond heritage", "Flood-prone"],
+    "eventTags": ["PancitPalabokFest", "DikeRepair"]
+  },
+  {
+    "name": "Mandaue",
+    "population": 362654,
+    "traits": ["Industrial", "Granite city"],
+    "eventTags": ["FurnitureExpo", "TrafficDetour"]
+  },
+  {
+    "name": "Tagum",
+    "population": 243000,
+    "traits": ["Durian capital", "Green city"],
+    "eventTags": ["DurianFeast", "TreePlanting"]
+  },
+  {
+    "name": "San Fernando (Pampanga)",
+    "population": 321100,
+    "traits": ["Parol capital", "Festive"],
+    "eventTags": ["LanternShow", "FloodPrep"]
+  },
+  {
+    "name": "Iligan",
+    "population": 342618,
+    "traits": ["Waterfalls", "Industrial"],
+    "eventTags": ["TinagoTour", "SteelExpo"]
+  },
+  {
+    "name": "Ormoc",
+    "population": 215000,
+    "traits": ["Coconut city", "Trade gateway"],
+    "eventTags": ["OrmocFestival", "BananaHarvest"]
+  },
+  {
+    "name": "Dagupan",
+    "population": 171271,
+    "traits": ["Bangus capital", "Coastal plain"],
+    "eventTags": ["BangusFestival", "FishMarket"]
+  },
+  {
+    "name": "Tuguegarao",
+    "population": 166334,
+    "traits": ["Hot climate", "Rice bowls"],
+    "eventTags": ["HeatWave", "CagayanTradeFair"]
+  },
+  {
+    "name": "Cauayan",
+    "population": 139990,
+    "traits": ["Mango orchards", "Quiet"],
+    "eventTags": ["MangoFiesta", "FarmTour"]
+  },
+  {
+    "name": "San Carlos",
+    "population": 132000,
+    "traits": ["Sugar capital", "Port town"],
+    "eventTags": ["SugarExpo", "HarborClean"]
+  },
+  {
+    "name": "Dumaguete",
+    "population": 134000,
+    "traits": ["University town", "Friendly"],
+    "eventTags": ["BuglasanParade", "PoetryNight"]
+  },
+  {
+    "name": "Cabanatuan",
+    "population": 309809,
+    "traits": ["Rice granary", "War history"],
+    "eventTags": ["HarvestSeason", "MemorialMarch"]
+  },
+  {
+    "name": "Baybay",
+    "population": 111848,
+    "traits": ["Coastal", "Small town charm"],
+    "eventTags": ["BeachCleanup", "CraftBazaar"]
+  },
+  {
+    "name": "Ligao",
+    "population": 108000,
+    "traits": ["Rice and coconut"], 
+    "eventTags": ["CropHarvest", "VillageFair"]
+  },
+  {
+    "name": "Cadiz",
+    "population": 107000,
+    "traits": ["Sugar hub", "Island access"],
+    "eventTags": ["SugarMilling", "FerryLaunch"]
+  },
+  {
+    "name": "Calapan",
+    "population": 145786,
+    "traits": ["Gateway to Mindoro", "Rice paddies"],
+    "eventTags": ["MangyanMarket", "FloodAlert"]
+  },
+  {
+    "name": "San Jose del Monte",
+    "population": 651813,
+    "traits": ["Rapid growth", "Residential sprawl"],
+    "eventTags": ["HousingFair", "TrafficSurvey"]
+  },
+  {
+    "name": "Cotabato City",
+    "population": 299438,
+    "traits": ["River town", "Cultural mix"],
+    "eventTags": ["KanduliFeast", "RiverClean"]
+  },
+  {
+    "name": "Kidapawan",
+    "population": 160000,
+    "traits": ["Mountain vibes", "Earthquake-prone"],
+    "eventTags": ["SukaranFestival", "QuakeDrill"]
+  },
+  {
+    "name": "Marawi",
+    "population": 201785,
+    "traits": ["Lake town", "Rebuilding"],
+    "eventTags": ["PeaceSummit", "LakeFestival"]
+  },
+  {
+    "name": "Koronadal",
+    "population": 195398,
+    "traits": ["Cultural", "South Cotabato HQ"],
+    "eventTags": ["T'nalakParade", "MunicipalCongress"]
+  },
+  {
+    "name": "Cabadbaran",
+    "population": 75336,
+    "traits": ["Coastal plains", "Quiet"],
+    "eventTags": ["SeafoodFest", "CraftMarket"]
+  },
+  {
+    "name": "Butuan",
+    "population": 370202,
+    "traits": ["Historical", "River cruising"],
+    "eventTags": ["BoatTour", "ArchaeologyFair"]
+  },
+  {
+    "name": "Canlaon",
+    "population": 64 000,
+    "traits": ["Volcanic", "Coffee farms"],
+    "eventTags": ["VolcanoTrek", "CoffeeHarvest"]
+  },
+  {
+    "name": "Bayugan",
+    "population": 109,000,
+    "traits": ["Agricultural", "Gateway"],
+    "eventTags": ["FarmExpo", "TradeFair"]
+  },
+  {
+    "name": "Tabuk",
+    "population": 124,000,
+    "traits": ["Mountain agriculture", "Rice terraces"],
+    "eventTags": ["TerraceTour", "HarvestFest"]
+  },
+  {
+    "name": "Sipalay",
+    "population": 70,000,
+    "traits": ["Beach resort", "Quiet town"],
+    "eventTags": ["IslandHop", "CoralReefClean"]
+  },
+  {
+    "name": "Silay",
+    "population": 132,000,
+    "traits": ["Heritage", "Sugar barons’ town"],
+    "eventTags": ["HouseTour", "SugarGala"]
+  },
+  {
+    "name": "Roxas City",
+    "population": 167003,
+    "traits": ["Seafood heaven", "Quiet port"],
+    "eventTags": ["SeafoodFeast", "HarborCleanup"]
+  },
+  {
+    "name": "Surigao City",
+    "population": 154,000,
+    "traits": ["White beaches", "Mining history"],
+    "eventTags": ["BeachParty", "MiningExpo"]
+  },
+  {
+    "name": "Tagbilaran",
+    "population": 104,000,
+    "traits": ["Island hop", "Historic church"],
+    "eventTags": ["HeritageWalk", "BoatShow"]
+  },
+  {
+    "name": "Bislig",
+    "population": 98,000,
+    "traits": ["Tinuy-an Falls", "Rainforest"],
+    "eventTags": ["WaterfallHike", "EcoCamp"]
+  },
+  {
+    "name": "Tandag",
+    "population": 62,000,
+    "traits": ["Coastal highlands", "Quiet"],
+    "eventTags": ["HillTrek", "SeaFoodFest"]
+  },
+  {
+    "name": "Bacolod",
+    "population": 600,000,
+    "traits": ["Sugarland", "MassKara festival"],
+    "eventTags": ["MassKaraParade", "SugarExpo"]
+  },
+  {
+    "name": "Tabuk City",
+    "population": 124,000,
+    "traits": ["Agricultural hub", "Mountain city"],
+    "eventTags": ["HarvestTime", "TrailTrek"]
+  },
+  {
+    "name": "Tagoloan",
+    "population": 62,000,
+    "traits": ["Agro-industry", "Quiet port"],
+    "eventTags": ["TradeFair", "CropFestival"]
+  },
+  {
+    "name": "Maasin",
+    "population": 79,000,
+    "traits": ["Coastal", "Historic church"],
+    "eventTags": ["HeritageWalk", "BoatRegatta"]
+  },
+  {
+    "name": "Mati",
+    "population": 147,000,
+    "traits": ["Pacific coast", "Eco-tourism"],
+    "eventTags": ["CoralClean", "SurfContest"]
+  },
+  {
+    "name": "Naga (Cebu)",
+    "population": 133,000,
+    "traits": ["Coastal", "Industrial"],
+    "eventTags": ["PortTour", "ShipExpo"]
+  },
+  {
+    "name": "Urdaneta",
+    "population": 143,000,
+    "traits": ["Rice granary", "Quiet town"],
+    "eventTags": ["HarvestFair", "FarmExpo"]
+  },
+  {
+    "name": "Trece Martires",
+    "population": 175,000,
+    "traits": ["Capital of Cavite", "Residential"],
+    "eventTags": ["CaviteDay", "TrafficCheck"]
+  },
+  {
+    "name": "San Carlos (Pangasinan)",
+    "population": 132,000,
+    "traits": ["Sugar capital", "Port city"],
+    "eventTags": ["SugarExpo", "HarborClean"]
+  },
+  {
+    "name": "Taguig",
+    "population": 886,722,
+    "traits": ["BGC growth", "Urban green"],
+    "eventTags": ["ParkRun", "StreetArt"]
+  },
+  {
+    "name": "Montalban",
+    "population": 139,000,
+    "traits": ["Rizal highlands", "River gorge"],
+    "eventTags": ["HikingFest", "CaveTour"]
+  },
+  {
+    "name": "Bayugan",
+    "population": 109,000,
+    "traits": ["Agricultural", "Gateway"],
+    "eventTags": ["FarmExpo", "TradeFair"]
+  },
+  {
+    "name": "Treces Martires",
+    "population": 175,000,
+    "traits": ["Cavite capital", "Quiet"],
+    "eventTags": ["CaviteFest", "LRTSurvey"]
+  }
+]
