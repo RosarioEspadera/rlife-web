@@ -1,3 +1,5 @@
+import phCities from "./phCitiesData.json";
+
 export const countryData = [
   {
     code: "PH",
@@ -6,10 +8,7 @@ export const countryData = [
     region: "Asia",
     language: "Filipino",
     traits: ["Family-oriented", "Karaoke master"],
-    cities: [
-      { name: "Kidapawan", population: 160000, traits: ["Mountain vibes", "Earthquake-prone"], eventTags: ["SukaranFestival", "QuakeDrill"] },
-      { name: "Manila", population: 1800000, traits: ["Urban", "Loud", "Crowded"], eventTags: ["JeepneyStrike", "FloodPrep"] }
-    ],
+    cities: phCities,
     eventPack: "ph_events.json"
   },
   {
